@@ -22,6 +22,13 @@ Se creó un formulario en **C# WinForms** que valida contraseñas con los siguie
 - Coincidencia exacta entre los dos campos de texto.  
 
 ---
+## Evidencias
+
+Aquí se muestran las capturas del formulario y su funcionamiento:
+
+<img width="743" height="490" alt="Contraseña_validada png" src="https://github.com/user-attachments/assets/9ff59bc9-42d1-4748-9419-1a2fd1a512ae" />
+<img width="897" height="492" alt="Contraseña_norequisitos png" src="https://github.com/user-attachments/assets/d1514d7f-1e79-48e6-b5f3-6a71ea248a05" />
+<img width="747" height="493" alt="Contraseña_nocoincide png" src="https://github.com/user-attachments/assets/fadc1602-c8e2-4ea3-84fb-5166eac1881a" />
 
 ## Código Principal
 ```csharp
@@ -62,11 +69,3 @@ namespace HolaMundo._1
         }
     }
 }
-
-## Evidencias
-
-Aquí se muestran las capturas del formulario y su funcionamiento:
-
-<img width="743" height="490" alt="Contraseña_validada png" src="https://github.com/user-attachments/assets/9ff59bc9-42d1-4748-9419-1a2fd1a512ae" />
-<img width="897" height="492" alt="Contraseña_norequisitos png" src="https://github.com/user-attachments/assets/d1514d7f-1e79-48e6-b5f3-6a71ea248a05" />
-<img width="747" height="493" alt="Contraseña_nocoincide png" src="https://github.com/user-attachments/assets/fadc1602-c8e2-4ea3-84fb-5166eac1881a" />
